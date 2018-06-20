@@ -1,0 +1,17 @@
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.deps.json
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.dll
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.pdb
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.csproj.CoreCompileInputs.cache
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.AssemblyInfoInputs.cache
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.AssemblyInfo.cs
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.dll
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.pdb
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.deps.json
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.dll
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.pdb
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.csprojAssemblyReference.cache
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.csproj.CoreCompileInputs.cache
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.AssemblyInfoInputs.cache
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.AssemblyInfo.cs
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.dll
+F:\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\linux-arm\NetCoreGpioLibrary.pdb

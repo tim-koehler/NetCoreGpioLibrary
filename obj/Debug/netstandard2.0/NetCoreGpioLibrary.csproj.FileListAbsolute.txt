@@ -1,0 +1,8 @@
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\NetCoreGpioLibrary.deps.json
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\NetCoreGpioLibrary.dll
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\bin\Debug\netstandard2.0\NetCoreGpioLibrary.pdb
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\NetCoreGpioLibrary.csproj.CoreCompileInputs.cache
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\NetCoreGpioLibrary.AssemblyInfoInputs.cache
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\NetCoreGpioLibrary.AssemblyInfo.cs
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\NetCoreGpioLibrary.dll
+C:\Users\koe61930\Dropbox\Programmieren\NetCoreGpioLibrary\obj\Debug\netstandard2.0\NetCoreGpioLibrary.pdb
