@@ -8,8 +8,8 @@ You should already have a working .NetCore environment on your Raspberry set up.
 
 ## Installation
 
-1. [Download](http://www.dropwizard.io/1.0.2/docs/) the dll file
-2. Add the library to your existing Projekt
+1. [Download](https://github.com/RaZorfalkon/NetCoreGpioLibrary/releases) the dll file
+2. Add the library to your existing Project
 
 
 ## Use the library
